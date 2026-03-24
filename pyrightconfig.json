@@ -1,0 +1,4 @@
+{
+  "include": ["."],       // look in the current folder
+  "extraPaths": ["."]     // also search here for imports
+}

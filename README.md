@@ -96,5 +96,5 @@ Built with Python, Streamlit, and Mistral AI.
 
 Built as a learning project to explore Python, Streamlit, 
 
-and AI API integration while learning effective delegation.v
+and AI API integration while learning effective delegation.
 

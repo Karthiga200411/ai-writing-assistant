@@ -134,8 +134,8 @@ with st.sidebar:
 # """, unsafe_allow_html=True)
 
 # title
-# st.title("✍️ AI Writing Assistent")
-# st.write("Fill in the details below and generate your content instantly.")
+st.title("✍️ AI Writing Assistent")
+st.write("Fill in the details below and generate your content instantly.")
 st.divider() # this will display horizondal line across page.
 # input form
 content_type = st.selectbox(
